@@ -3,7 +3,7 @@ Game about an ant
 
 Dependencies:
 - Godot 4 .NET
-- .NET 6 SDK
+- .NET 6.0.423 x64 SDK
 
 This project uses C# as the main language.
 

@@ -1,0 +1,55 @@
+Ant game:
+
+Game genre: 2d left to right beat em up kinda thing
+
+Story:
+Anthony (MC)'s family is killed by an evil human, Anthony must train and fight through stages to become stronger and kill the human.
+
+Anthony controls:
+	WASD - basic movement
+	J - Light attack
+	K - Heavy attack
+	L - Magic attack
+	I - Use item
+
+Stages:
+	Stage-1: Sewers
+	Stage-2: Garden
+	Stage-3: Pond
+	Stage-3.5: Front door
+	Stage-4: House
+		Rooms: Staircase, Living room, Kitchen, Dungeon
+
+	Secret Stage: England team
+	Secret Stage: White House (USA)
+	Secret Stage: Alien
+
+Bosses:
+	EX Boss: paramedics + ambulance
+	Dungeon: Final boss: Harry the Demolisher (pending)
+
+	Living room: Twin Hamsters -> Billy and Willy
+	
+	Stage-3.5: (Cute) Dog -> Ripper
+	Staircase: Cat
+	Living room: Hoover
+	Garden: Bird
+	Garden: Lawnmower
+
+Normal enemies:
+	Rats - Sewers
+	Worms - Garden
+	Ladybugs - Garden
+	Woodlouse (Cheeselog) - Garden
+	Spider - House
+	Fish - Pond	
+
+Task allocation:
+	Player controls - steve
+	Background design - gab + anyone else
+	Sprites (player + enemies) - gab
+	Enemies - gab/harry
+	Bosses (each person takes a few)
+	Story
+	Game physics
+	Game runtime
